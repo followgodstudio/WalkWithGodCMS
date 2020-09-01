@@ -8,6 +8,10 @@ body {
   height: 100px;
 }
 
+.form-control.subtitle {
+  margin-top: 10px;
+}
+
 .form-control.paragraph {
   margin-top: 5px;
 }

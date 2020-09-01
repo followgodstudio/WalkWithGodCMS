@@ -21,8 +21,10 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <form class="form-inline mt-2 mt-md-0" id="formSignin">
-        <input type="email" id="inputEmail" class="form-control mr-sm-2" placeholder="Email" required autofocus>
-        <input type="password" id="inputPassword" class="form-control mr-sm-2" placeholder="Password" required>
+        <input type="email" id="inputEmail" class="form-control mr-sm-2" placeholder="Email" autocomplete="username"
+          required autofocus>
+        <input type="password" id="inputPassword" class="form-control mr-sm-2" placeholder="Password"
+          autocomplete="current-password" required>
         <button class="btn btn-primary my-2 my-sm-0" type="button" onclick="return signInFirebase()">Sign
           in</button>
       </form>
@@ -47,23 +49,35 @@
         </div>
       </div>
 
+      <div class="row">
+        <div class="col-md-6 mb-3">
+          <label for="inputAuthorName">Author Name <span class="text-muted">(Optional)</span> </label>
+          <input type="text" class="form-control" id="inputAuthorName" placeholder="今日佳音">
+        </div>
+        <div class="col-md-6 mb-3">
+          <label for="inputAuthorIcon">Author Icon <span class="text-muted">(Optional)</span> </label>
+          <input type="text" class="form-control" id="inputAuthorIcon" placeholder="https://some-image-link.jpg">
+        </div>
+      </div>
+
       <div class="mb-3">
         <label for="inputImageUrl">Image URL <span class="text-muted">(Optional)</span></label>
         <input type="text" class="form-control" id="inputImageUrl" placeholder="https://some-image-link.jpg">
       </div>
 
       <div class="mb-3">
-        <label for="inputContent">Content</label>
+        <label for="inputContent">Content </label>
         <button type="button" class="btn btn-outline-secondary btn-sm paragraph-controll"
           onclick="return addParagraph()">+</button>
         <button type="button" class="btn btn-outline-secondary btn-sm paragraph-controll"
           onclick="return removeParagraph()">-</button>
         <ul id="listParagraph" class="paragraph">
           <li>
+            <input type="text" class="form-control subtitle" id="inputSubtitle1" placeholder="Subtitle 1 (Optional)">
             <textarea class="form-control paragraph" id="inputParagraph1" rows="3" placeholder="Paragraph 1"
               required></textarea>
             <div class="invalid-feedback">
-              At least one Paragraph is required.
+              At least one paragraph is required.
             </div>
           </li>
         </ul>
