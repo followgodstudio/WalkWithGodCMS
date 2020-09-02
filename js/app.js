@@ -56,7 +56,7 @@ async function submitArticle() {
         var subtitle = document.getElementById('inputSubtitle' + i).value.trim();
         var body = document.getElementById('inputParagraph' + i).value.trim();
         if (body !== "")
-            content.push({ subtitle: subtitle, body: body });
+            content.push({ index: i - 1, subtitle: subtitle, body: body});
 
     }
     var data = {
@@ -95,7 +95,7 @@ async function addArticleInFirebase(data, content) {
             batch.set(db.collection("articles").doc(docRef.id).collection('content').doc(), doc);
         });
         await batch.commit();
-        alert("Document Saved!");
+        alert("Article Saved!");
         console.log("Document written with ID: ", docRef.id);
     } catch (error) {
         if (error.code === "permission-denied") {
