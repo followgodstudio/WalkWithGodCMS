@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a72d8d97-ad4b-43ea-9a95-e93529b7aa8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/components/Login/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/components/Login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/components/Login/SignUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/libs/contextLib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/views/Articles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/views/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/app" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/app/package.json" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iWQcOPfeUAVvF8dJuvOkpwWGtj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src" />
+      <recent name="$PROJECT_DIR$/app/public" />
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HellowWorld" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="walk-with-god-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suixing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.suixing.HellowWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HellowWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="627" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602091534051">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state x="627" y="340" key="#com.intellij.fileTypes.FileTypeChooser/1792.23.2560.1057/0.23.1792.1022@0.23.1792.1022" timestamp="1602091534051" />
+    <state x="584" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602022097262">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state x="584" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1792.23.2560.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1602022097262" />
+    <state x="634" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602085805150">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state x="634" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1792.23.2560.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1602085805150" />
+    <state width="1750" height="314" key="GridCell.Tab.0.bottom" timestamp="1602099212599">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="314" key="GridCell.Tab.0.bottom/1792.23.2560.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1602083829653" />
+    <state width="1750" height="314" key="GridCell.Tab.0.bottom/1792.23.2560.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1602099212599" />
+    <state width="1750" height="314" key="GridCell.Tab.0.center" timestamp="1602099212598">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="314" key="GridCell.Tab.0.center/1792.23.2560.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1602083829653" />
+    <state width="1750" height="314" key="GridCell.Tab.0.center/1792.23.2560.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1602099212598" />
+    <state width="1750" height="314" key="GridCell.Tab.0.left" timestamp="1602099212598">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="314" key="GridCell.Tab.0.left/1792.23.2560.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1602083829653" />
+    <state width="1750" height="314" key="GridCell.Tab.0.left/1792.23.2560.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1602099212598" />
+    <state width="1750" height="314" key="GridCell.Tab.0.right" timestamp="1602099212598">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="314" key="GridCell.Tab.0.right/1792.23.2560.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1602083829653" />
+    <state width="1750" height="314" key="GridCell.Tab.0.right/1792.23.2560.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1602099212598" />
+    <state width="1750" height="416" key="GridCell.Tab.1.bottom" timestamp="1602022708999">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state width="1750" height="416" key="GridCell.Tab.1.bottom/1792.23.2560.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1602022708999" />
+    <state width="1750" height="416" key="GridCell.Tab.1.center" timestamp="1602022708999">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state width="1750" height="416" key="GridCell.Tab.1.center/1792.23.2560.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1602022708999" />
+    <state width="1750" height="416" key="GridCell.Tab.1.left" timestamp="1602022708998">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state width="1750" height="416" key="GridCell.Tab.1.left/1792.23.2560.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1602022708998" />
+    <state width="1750" height="416" key="GridCell.Tab.1.right" timestamp="1602022708999">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state width="1750" height="416" key="GridCell.Tab.1.right/1792.23.2560.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1602022708999" />
+    <state x="434" y="195" key="Maven.ArtifactSearchDialog" timestamp="1602021421469">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state x="434" y="195" key="Maven.ArtifactSearchDialog/1792.23.2560.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1602021421469" />
+    <state x="384" y="114" key="SettingsEditor" timestamp="1602089976041">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state x="384" y="114" key="SettingsEditor/1792.23.2560.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1602089976040" />
+    <state x="561" y="250" width="670" height="681" key="search.everywhere.popup" timestamp="1602111975226">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="561" y="248" width="670" height="675" key="search.everywhere.popup/1792.23.2560.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1602089779886" />
+    <state x="561" y="249" width="670" height="676" key="search.everywhere.popup/1792.23.2560.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1602022246749" />
+    <state x="561" y="250" width="670" height="681" key="search.everywhere.popup/1792.23.2560.1057/0.23.1792.1026@0.23.1792.1026" timestamp="1602111975226" />
+  </component>
+</project>
